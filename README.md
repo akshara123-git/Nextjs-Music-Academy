@@ -4,7 +4,7 @@ This project is a UI centric web application built using NextJS and AcertenityUI
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/ayyush08/MusicAcademy.git`
+1. Clone the repository: `git clone https://github.com/akshara123-git/MusicAcademy.git`
 2. Navigate to the project directory: `cd MusicAcademy`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
